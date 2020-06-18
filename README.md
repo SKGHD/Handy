@@ -1,5 +1,5 @@
 # HandyCLI v1.1Alpha
-<center><a href="https://t.me/skghd1"><img src='https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg' height="70" alt="Contact using Telegram"/></a><a href="https://github.com/SKGHD/Handy/"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/800px-Font_Awesome_5_brands_github.svg.png' height="70" alt="Github"/></a>!</center>
+<center><a href="https://t.me/skghd1"><img src='https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg' height="70" alt="Contact using Telegram"/></a><a href="https://github.com/SKGHD/Handy/"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/800px-Font_Awesome_5_brands_github.svg.png' height="70" alt="Github"/></a></center>
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSKGHD%2FHandy%2F" alt="Hits">
 <br><b><h3>Features:</h3></b>
   <li>Mount/Unmount your Cloud drive with rClone.</li>
