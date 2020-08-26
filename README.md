@@ -12,7 +12,7 @@
 
 # Usage
 Click on the "Open in Colab" button.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKGHD/Handy/blob/master/HandyCLI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKGHD/Handy/blob/master/HandBrakeCLI_Colab.ipynb)
 
 # Notes
 <li> To use email notifications only gmail id can be used and use an app specfic password <a href="https://myaccount.google.com/apppasswords">Google account settings</a> in order for the feature to work. </li> 
