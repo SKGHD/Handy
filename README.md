@@ -6,6 +6,7 @@
   <li>Transfer files between your cloud drives with the speed of google's fast servers.</li>
   <li>Convert videos online with the help of HandBrake.</li>
   <li>Batch Convert directories.</li>
+  <li> Resume support for Batch conversion jobs. Pick up right after the last successful conversion in Batch Job when your colab notebook restarts or disconnects. </li>
   <li>Get email notification when your task(s) have finished.</li>
 </ul> 
 
@@ -18,9 +19,10 @@ Click on the "Open in Colab" button.
 <li> To use email notifications only gmail id can be used and use an app specfic password <a href="https://myaccount.google.com/apppasswords">Google account settings</a> in order for the feature to work. </li> 
 <li> Only you and those who can see your screen physically can see your passwords. </li>
 <li> Your passwords are stored in a local variable in your Jupyter Notebook and not stored anywhere less. It gets automatically destroyed when Google purges your notebook. </li>
+<li> Do not remove processed_db.txt from your current batch directory else it'll process same files again and again each time you restart the notebook!</li>
+<br>
 <p>Read more about app specific passwords here: <a href="https://support.google.com/accounts/answer/185833?hl=en">Google Account Help</a>
 
 
 # Upcoming 
-<li> Resume support for Batch conversion jobs. Pick up right after the last successful conversion in Batch Job when your colab notebook restarts or disconnects. </li>
 <li>Get stats for each file (Original Size vs. Final Size,% Compression)</li>
