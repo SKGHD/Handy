@@ -36,7 +36,9 @@ Click on the "Open in Colab" button.
 <li>A> Everything has been answer here in this forum. Please have a read :<a href="https://onehack.us/t/colab-notebook-to-compress-videos-using-handbrake/104456/9?u=skghd">Rclone</a></li>
 <li>Q> How to add more flags to the script?</li>
 <li>A> Just add them to the Additional_Flags: ______ in below format.</li>
-Example: `--bframes '8' rc-lookahead '40' no-rect`
+Example: </br>
+`--bframes '8' rc-lookahead '40' no-rect`
+</br>
 Note: Numbers should be in single quotes.
 
 <li>Q> Where do I ask for help or feature requests?</li>
