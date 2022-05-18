@@ -3,7 +3,7 @@
 Consider giving this repo a star ⭐ if it helped you.
 
 <center><a href="https://twitter.com/sangramgorai"><img src='https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/295px-Twitter_Bird.svg.png' height="70" alt="Contact using Twitter"/></a><a href="https://github.com/SKGHD/Handy/"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/800px-Font_Awesome_5_brands_github.svg.png' height="70" alt="Github"/></a></center>
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSKGHD%2FHandy%2F" alt="Hits">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSKGHD%2FHandy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><b><h3>Features:</h3></b>
   <li>Mount/Unmount your Cloud drive with rClone.</li>
   <li>Transfer files between your cloud drives with the speed of google's fast servers.</li>
